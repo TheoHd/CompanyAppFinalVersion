@@ -1,6 +1,6 @@
-package gestionEntrepriseVB;
+package CompanyAppFinalVersion;
 import java.util.Scanner;
-import static gestionEntrepriseVB.Helper.verifInt;
+import static CompanyAppFinalVersion.Helper.verifInt;
 
 public class Entreprise {
 

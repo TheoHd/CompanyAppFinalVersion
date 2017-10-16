@@ -1,4 +1,4 @@
-package gestionEntrepriseVB;
+package CompanyAppFinalVersion;
 
 public class Main {
 
