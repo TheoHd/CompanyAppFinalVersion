@@ -1,4 +1,4 @@
-package CompanyAppFinalVersion;
+package gestionEntrepriseVB;
 import java.util.Scanner;
 
 public abstract class Personne {

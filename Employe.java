@@ -1,5 +1,4 @@
-package CompanyAppFinalVersion;
-
+package gestionEntrepriseVB;
 public class Employe extends Personne{
 	
 	protected String poste;

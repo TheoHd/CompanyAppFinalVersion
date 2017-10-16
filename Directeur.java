@@ -1,5 +1,4 @@
-package CompanyAppFinalVersion;
-
+package gestionEntrepriseVB;
 public final class Directeur extends Cadre{
 	
 	private String qualification;

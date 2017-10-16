@@ -1,4 +1,4 @@
-package CompanyAppFinalVersion;
+package gestionEntrepriseVB;
 public class Helper {
 	
 	public static boolean verifInt(int debut , int fin , char ascii){
